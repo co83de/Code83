@@ -1,0 +1,24 @@
+<html>
+<body style="font-size:35px;text-align:center;">
+
+<h1 id=msgs style='font-size:35px; text-align:center;'></h1>
+
+<script src="exp_webkit.js"></script>
+
+
+
+	
+<script>
+
+load_todex()
+function load_todex(){
+msgs.innerHTML="<h1 style='font-size:35px;text-align:center;'>Loading ToDEX ...</h1>";
+LoadedMSG="<h1 style='font-size: 35px;text-align:center;'>Loading ToDEX ...<br>ToDEX Loaded ✔<br><h1 style='color:green;font-size: 35px;text-align:center;'> الان PS تم بنجاح اضغط على زر  </h1>";
+var script = document.createElement('script');script.src = "pl_ToDEX.js";document.getElementsByTagName('head')[0].appendChild(script);
+var script = document.createElement('script');script.src = "exp_loader.js";document.getElementsByTagName('head')[0].appendChild(script);
+}
+
+</script>
+
+</body>
+</html>

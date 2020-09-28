@@ -1,0 +1,33 @@
+CACHE MANIFEST
+# BY Ali Madhi - 6.72
+index.html
+672_213hen_index.html
+672_app2usb_index.html
+672_binloader_index.html
+672_disable_upd_index.html
+672_dumper_index.html
+672_enable_upd_index.html
+672_ftp_index.html
+672_mira_index.html
+672_ps4debug_index.html
+672_todev_index.html
+672_todex_index.html
+click.mp4
+favicon.ico
+version.json
+owl.carousel.min.css
+exp_BinLoader.js
+exp_kernelHEN.js
+exp_kernelMiraUN.js
+exp_loader.js
+exp_webkit.js
+jquery-3.3.1.min.js
+owl.carousel.min.js
+pl_app2usb.js
+pl_dumper.js
+pl_ftp.js
+pl_ps4debug.js
+pl_ToDEV.js
+pl_ToDEX.js
+pl_updatesDisable.js
+pl_updatesEnable.js
